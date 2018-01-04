@@ -1,0 +1,2 @@
+# gmaclinuxer.github.io
+blog
