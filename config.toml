@@ -1,4 +1,6 @@
-baseURL = "http://localhost:1313"
+# baseURL = "http://localhost:1313"
+baseURL = "https://gmaclinuxer.github.io/"
+
 languageCode = "en"
 title = "Hugo Blog"
 theme = "hugo-nuo"
